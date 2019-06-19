@@ -18,6 +18,7 @@ abstract class Sorter<T>(val comparator: Comparator<T>, val notifier: (Array<T>)
         } else {
             notifier(arr)
         }
+
     }
 }
 
