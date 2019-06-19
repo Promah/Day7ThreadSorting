@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Day7ThreadSorting</string>
+    <string name="sort_new_data">Sort New Data</string>
+</resources>
